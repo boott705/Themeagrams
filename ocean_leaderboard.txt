@@ -1,0 +1,5 @@
+Bo: 460
+player1: 100
+player2: 95
+player3: 90
+player4: 85

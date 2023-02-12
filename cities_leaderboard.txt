@@ -1,0 +1,5 @@
+Bo: 130
+player1: 90
+player2: 70
+player3: 65
+player4: 60
