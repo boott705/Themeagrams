@@ -20,25 +20,19 @@ Before running the game, you need to have Python and the Pygame library installe
 1. __Python:__ Make sure you have Python installed. You can download it from the official website: ***Python.org***.
 2. __Pygame:__ Install the Pygame library using pip:
 ***pip install pygame***
+3. __Images:__ Please download the three images: **city.jpeg**, **jungle.jpeg**, and **ocean.jpg**.
+4. __Leaderboards:__ Please download the three leaderboards: **cities_leaderboard.txt**, **jungle_leaderboard.txt**, and **ocean_leaderboard.txt**.
 
 ## How to Play
 
 1. Run the game by executing the Python script.
-python word_anagram_game.py
+***python Themeagrams.py***
 2. The game will start on the home screen, where you can choose to start playing, read the instructions, or view the leaderboards.
 3. If you choose to play, select a theme (jungle, ocean, or cities), and you will be presented with an anagram to solve within a time limit.
 4. Type your guess into the input box and press Enter to submit your answer. If your answer is correct, you'll earn points, and a new anagram will appear. If your answer is wrong, you can try again.
 5. The game keeps track of your score and time remaining. Try to earn as many points as possible before the timer runs out.
 6. When the game is over, you can enter your name (if you haven't already) to be added to the leaderboard.
 7. You can navigate between screens using the on-screen buttons. The game features screens for the home, instructions, leaderboards, and game over.
-
-## Screenshots
-
-Home Screen
-
-Gameplay
-
-Leaderboard
 
 ## Credits
 
