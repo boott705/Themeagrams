@@ -34,6 +34,6 @@ Before running the game, you need to have Python and the Pygame library installe
 6. When the game is over, you can enter your name (if you haven't already) to be added to the leaderboard.
 7. You can navigate between screens using the on-screen buttons. The game features screens for the home, instructions, leaderboards, and game over.
 
-## Credits
+## Acknowledgements
 
-This game was created by Bo Ott as personal project for an FBLA Event. Feel free to reach out to boott705@gmail.com for any inquiries or feedback.
+I personally created this game as a submission for an FBLA event. Feel free to reach out to boott705@gmail.com for any inquiries or feedback.
